@@ -7,7 +7,7 @@ car-simulation by vehicle model of front wheel steering.
 Depending on the input target velocity and steering angle,  
 the running path is displayed as the output result like the image below.
 
-![result](https://raw.githubusercontent.com/takuya-ki/car-simulation/media/result.gif)
+![result](https://github.com/takuya-ki/car-simulation/blob/media/result.gif)
 
 ## Features
 
