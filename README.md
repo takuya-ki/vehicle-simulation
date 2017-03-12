@@ -25,7 +25,7 @@ Depending on input target velocity and steering angle, the running path is displ
 	$ make DriveSim  
 	$ ./DriveSim  
 
-## Author/Cntributers
+## Author/Contributors
 
 qiita: [@takuya-ki](http://qiita.com/takuya-ki)
 
