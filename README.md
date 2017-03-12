@@ -4,8 +4,7 @@ car-simulation by vehicle model of front wheel steering.
 
 ## Description
 
-Depending on the input target velocity and steering angle,  
-the running path is displayed as the output result like the image below.
+Depending on input target velocity and steering angle, the running path is displayed as the output result below.
 
 ![result](https://github.com/takuya-ki/car-simulation/blob/media/result.gif)
 
@@ -14,14 +13,17 @@ the running path is displayed as the output result like the image below.
 
 ## Installation/Requirement
 
+	$ git clone git@github.com:takuya-ki/car-simulation.git
+	$ cd car-simulation
+
 - g++ 4.9.4 (g++ -dumpversion)
 - C++11
 - gnuplot 5.0
 
 ## Usage
 
-1. `$ make DriveSim`  
-2. `$ ./DriveSim`  
+	$ make DriveSim  
+	$ ./DriveSim  
 
 ## Author/Cntributers
 
