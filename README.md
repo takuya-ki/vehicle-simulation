@@ -1,6 +1,6 @@
 # car-simulation
 
-car-simulation by vehicle model of front wheel steering.
+This is a car simulation program by vehicle model of front wheel steering.
 
 ## Description
 
@@ -16,9 +16,9 @@ Depending on input target velocity and steering angle, the running path is displ
 	$ git clone git@github.com:takuya-ki/car-simulation.git
 	$ cd car-simulation
 
-- g++ 4.9.4 (g++ -dumpversion)
+- g++4.9.4 (g++ -dumpversion)
 - C++11
-- gnuplot 5.0
+- gnuplot5.0
 
 ## Usage
 
@@ -27,7 +27,7 @@ Depending on input target velocity and steering angle, the running path is displ
 
 ## Author/Contributors
 
-qiita: [@takuya-ki](http://qiita.com/takuya-ki)
+[Takuya Kiyokawa](https://takuya-ki.github.io/)
 
 ## License
-
+This software is released under the MIT License, see LICENSE.txt.
