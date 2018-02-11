@@ -30,4 +30,4 @@ Depending on input target velocity and steering angle, the running path is displ
 [Takuya Kiyokawa](https://takuya-ki.github.io/)
 
 ## License
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License, see LICENSE.
