@@ -16,9 +16,9 @@ Depending on input target velocity and steering angle, the running path is displ
 	$ git clone git@github.com:takuya-ki/car-simulation.git
 	$ cd car-simulation
 
-- g++4.9.4 (g++ -dumpversion)
+- g++ 4.9.4 (g++ -dumpversion)
 - C++11
-- gnuplot5.0
+- gnuplot 5.0
 
 ## Usage
 
