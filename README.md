@@ -1,33 +1,32 @@
-# car-simulation
+# vehicle-simulation
 
-This is a vehicle simulation program using vehicle model of front wheel steering.
+Vehicle simulation program using vehicle model of front wheel steering.
 
 ## Description
 
 Depending on input target velocity and steering angle, the running path is displayed as the output result below.
 
-![result](https://github.com/takuya-ki/vehicle-simulation/blob/media/result.gif)
+<img src="./result/result.gif" width="400">
 
-## Features
+## Requirements
 
+- C++11
+- g++ 4.9.4 (g++ -dumpversion)
+- gnuplot 5.0
 
-## Installation/Requirement
+## Installation
 
 	$ git clone git@github.com:takuya-ki/vehicle-simulation.git
-	$ cd vehicle-simulation
-
-- g++ 4.9.4 (g++ -dumpversion)
-- C++11
-- gnuplot 5.0
 
 ## Usage
 
 	$ make DriveSim  
 	$ ./DriveSim  
 
-## Author/Contributors
+## Author / Contributor
 
 [Takuya Kiyokawa](https://takuya-ki.github.io/)
 
 ## License
-This software is released under the MIT License, see LICENSE.
+
+This software is released under the MIT License, see [LICENSE](./LICENSE).
