@@ -1,5 +1,7 @@
 # vehicle-simulation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Vehicle simulation program using vehicle model of front wheel steering.
 
 ## Description
@@ -15,13 +17,16 @@ Depending on input target velocity and steering angle, the running path is displ
 - gnuplot 5.0
 
 ## Installation
-
-	$ git clone git@github.com:takuya-ki/vehicle-simulation.git
+```bash
+git clone git@github.com:takuya-ki/vehicle-simulation.git
+cd vehicle-simulation
+make DriveSim  
+```
 
 ## Usage
-
-	$ make DriveSim  
-	$ ./DriveSim  
+```bash
+./DriveSim
+```
 
 ## Author / Contributor
 
